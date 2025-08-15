@@ -210,7 +210,7 @@ export const SkillsInfo = [
         "An intelligent travel assistant that generates personalized trip plans based on user preferences such as destination, budget, duration, and interests. It suggests places to visit, hotels, and daily itineraries using AI and integrates with external APIs (e.g., Google Places, Unsplash) for real-time data and images. Built using React Native for a mobile-friendly experience.",
       image: githubdetLogo,
       tags: ["React Native", "Expo", "Node.Js", "FireBase", "Tailwind CSS" , "API"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
+      github: "https://github.com/rudra2671/AI-Trip_Planner",
       webapp: "https://rudra-ai-travelling--imt6958u4a.expo.app",
     },
     {
@@ -230,7 +230,7 @@ export const SkillsInfo = [
         "A full-stack mobile application built with React Native that helps users efficiently manage their medication schedule. Users can add detailed information for each medicine, including name, dosage, frequency, reminder time, and stock-up alerts. The app sends timely push notifications to remind users to take their medicines, ensuring better adherence to treatment plans. With an intuitive interface and persistent data storage, it keeps track of medicine inventory and notifies when supplies are running low.",
       image: movierecLogo,
       tags: ["React Native", "Expo", "Node.Js", "FireBase", "Tailwind CSS" , "API"],
-      github: "https://github.com/codingmastr/Movie-Recommendation-App",
+      github: "https://github.com/rudra2671/medicine-reminder-app",
       webapp: "https://rudra-medicine-reminder--tsgfmfikj7.expo.app",
     },
     {
